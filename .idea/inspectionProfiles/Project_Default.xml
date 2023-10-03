@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="mod-wsgi" />
+            <item index="1" class="java.lang.String" itemvalue="django-filter" />
+            <item index="2" class="java.lang.String" itemvalue="django-smtp-ssl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="erecruitment.openings.forms.ProfileUpdateForm" />
+          <option value="careermod.jobs.models.Applicant.objects" />
+          <option value="careermod.jobs.models.Department.*" />
+          <option value="careermod.jobs.models.Response.*" />
+          <option value="careermod.jobs.models.Job.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
