@@ -1,0 +1,26 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: ameshdan@gmail.com
+Date: Wed, 04 Oct 2023 08:27:46 -0000
+Message-ID: 
+ <169640806624.208606.16148383929215187459@noob-HP-EliteBook-820-G3>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/users/reset/MQ/bvje6a-a5003f45eca97e39e35a788141ada090/
+
+Your username, in case you’ve forgotten: ameshdan@gmail.com
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------

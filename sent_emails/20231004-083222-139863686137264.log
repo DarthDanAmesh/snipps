@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: redismanchester@gmail.com
+Date: Wed, 04 Oct 2023 08:32:22 -0000
+Message-ID: <169640834243.208606.9191836451936020593@noob-HP-EliteBook-820-G3>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/users/reset/Mg/bvjedy-aace6aa275c52ac009cb5de1e70a4c9c/
+
+Your username, in case you’ve forgotten: redismanchester@gmail.com
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
